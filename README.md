@@ -137,7 +137,7 @@ public class Cafeteira {
 }
 ```
 
-Podemos ver que agora, além de mais simples, podemos adicionar novos adoçantes à nossa máquina sem grandes mudanças. Então, vamos fazer exatamente isso! Adicionemos um novo mel oriundo do Canada chamdo MelMaple. O MelMapple será uma extensão de Mel e por herança também um adoçante válido.
+Podemos ver que agora, além de mais simples, podemos adicionar novos adoçantes à nossa máquina sem grandes mudanças. Então, vamos fazer exatamente isso! Adicionemos um novo mel oriundo do Canada chamado MelMaple. O MelMapple será uma extensão de Mel e por herança também um adoçante válido.
 
 ```java
 public class MelMaple extends Mel {
